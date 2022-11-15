@@ -22,8 +22,29 @@ img {
 }
 .felkialto{
     width: auto;
-    height: auto;
+    height: 130px;
 }
 .szoveg1{
     padding-top: 30px;
+}
+h2{
+    padding-top: 40px;
+    text-align: left;
+}
+h3{
+    padding-top: 20px;
+    text-align: left;
+}
+p{
+    text-align: left;
+    padding-left: 30px;
+}
+.felsorolas{
+    padding-top: 20px;
+}
+ol{
+    text-align: left;
+}
+.utolso{
+    padding-top: 20px;
 }
