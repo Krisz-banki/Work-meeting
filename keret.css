@@ -1,5 +1,7 @@
 body {
     background-color: #E0E0E0;
+    color: #660000;
+    font-family: Arial;
 }
 
 .container {
@@ -22,3 +24,14 @@ img {
     width: auto;
     height: auto;
 }
+
+h2 {
+    padding-top: 80px;
+    font-size: 36px;
+}
+
+
+.szoveg1{
+    padding-top: 30px;
+}
+
