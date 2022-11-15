@@ -21,30 +21,39 @@ img {
     width: 25%;
 }
 .felkialto{
+    padding-top:10px;
     width: auto;
     height: 130px;
 }
+
+h2 {
+    padding-top: 42px;
+    font-size: 35px;
+}
+
+
 .szoveg1{
     padding-top: 30px;
 }
-h2{
-    padding-top: 40px;
+
+h4 {
+    padding-top: 60px;
     text-align: left;
 }
-h3{
+p {
     padding-top: 20px;
+    padding-right:300px;
+}
+h6 {
+    padding-top: 10px;
     text-align: left;
 }
-p{
+h3 {
+    padding-top:20px;
+    font-size:27px;
+}
+
+ol {
     text-align: left;
-    padding-left: 30px;
-}
-.felsorolas{
-    padding-top: 20px;
-}
-ol{
-    text-align: left;
-}
-.utolso{
-    padding-top: 20px;
+    padding-right: auto;
 }
