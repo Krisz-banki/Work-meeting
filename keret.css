@@ -21,13 +21,14 @@ img {
     width: 25%;
 }
 .felkialto{
+    padding-top:10px;
     width: auto;
-    height: auto;
+    height: 130px;
 }
 
 h2 {
-    padding-top: 80px;
-    font-size: 36px;
+    padding-top: 42px;
+    font-size: 35px;
 }
 
 
@@ -35,3 +36,19 @@ h2 {
     padding-top: 30px;
 }
 
+h4 {
+    padding-top: 60px;
+    text-align: left;
+}
+p {
+    padding-top: 20px;
+    padding-right:300px;
+}
+h6 {
+    padding-top: 10px;
+    text-align: left;
+}
+h3 {
+    padding-top:20px;
+    font-size:27px;
+}
