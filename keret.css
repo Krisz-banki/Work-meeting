@@ -1,5 +1,7 @@
 body {
     background-color: #E0E0E0;
+    color: #660000;
+    font-family: Arial;
 }
 
 .container {
@@ -21,4 +23,7 @@ img {
 .felkialto{
     width: auto;
     height: auto;
+}
+.szoveg1{
+    padding-top: 30px;
 }
